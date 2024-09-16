@@ -17,18 +17,6 @@
 - `Admin Panel` - React.js, Redux.js, Ant Design & Tailwind CSS
 - `Frontend` - Next.js, Redux.js & Ant Design
 
-## ⛳️ Live Preview
-
-- Admin Panel - [`🚀 Click to Visit`][admin-panel-link]
-- Frontend (Client Side) - [`🚀 Click to Visit`][frontend-link]
-
-<!-- my social media links -->
-
-[facebook-url]: https://www.faceook.com/SamiurRahmanMukul
-[instagram-url]: https://www.instagram.com/samiur_rahman_mukul
-[twitter-url]: https://www.twitter.com/SamiurRahMukul
-[linkedin-url]: https://www.linkedin.com/in/SamiurRahmanMukul
-[github-url]: https://www.github.com/SamiurRahmanMukul
 
 <!-- shield icon links -->
 
